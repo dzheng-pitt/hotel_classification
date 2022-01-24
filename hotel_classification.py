@@ -12,8 +12,6 @@ import matplotlib.pyplot as plt
 import optuna
 import time
 import xgboost as xgb
-from interpret.glassbox import ExplainableBoostingClassifier
-from interpret import show
 
 
 
@@ -126,7 +124,7 @@ for col in data.columns:
     
     if data[col].dtype == 'float64' or data[col].dtype == 'int64':
         
-        # standardize continuous variables
+        # standardize continuous variables for lasso
         mu = np.mean(data[col])
         sigma = np.std(data[col])
         data[col] = (data[col] - mu)/sigma
@@ -181,8 +179,8 @@ print(correlations_long.loc[correlations_long['value'] > 0.5])
 ## Modeling
 # arrival date week number and day of month probably has non linear 
 # relationships with is_cancelled. other variables also have this potential.
-# we can try these things. baseline logit knowing these flaws, xgboost, then
-# an explainable boosting machine. Because I believe a tree based fitting algo
+# we can try these things. baseline logit knowing these flaws and xgboost. 
+# Because I believe a tree based fitting algo
 # is probably most convenient and applicable here, I won't delve too much into
 # other feature engineerings for the lasso, but if lasso is the preferred model
 # can try to clean some things better like log/box-cox transform heavily skewed 
