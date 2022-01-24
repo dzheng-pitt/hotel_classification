@@ -1,0 +1,1033 @@
+is_canceled
+NA count: 0
+Data percentiles [0 5 25 50 75 95 100]
+[0. 0. 0. 0. 1. 1. 1.]
+Data Moments
+Mean: 0.37
+Std Dev: 0.48
+Skewness: 0.54
+Kurtosis: -1.71
+Data Top 5 Modes [item][count]
+[0 1] [75166, 44224]
+
+lead_time
+NA count: 0
+Data percentiles [0 5 25 50 75 95 100]
+[-0.97 -0.97 -0.8  -0.33  0.52  2.02  5.92]
+Data Moments
+Mean: 0.0
+Std Dev: 1.0
+Skewness: 1.35
+Kurtosis: 1.7
+Data Top 5 Modes [item][count]
+[-0.97 -0.96 -0.95 -0.95 -0.94] [6345, 3460, 2069, 1816, 1715]
+
+arrival_date_week_number
+NA count: 0
+Data percentiles [0 5 25 50 75 95 100]
+[-1.92 -1.63 -0.82  0.06  0.8   1.6   1.9 ]
+Data Moments
+Mean: -0.0
+Std Dev: 1.0
+Skewness: -0.01
+Kurtosis: -0.99
+Data Top 5 Modes [item][count]
+[ 0.43  0.21  0.36  0.5  -0.67] [3580, 3087, 3045, 3040, 2926]
+
+arrival_date_day_of_month
+NA count: 0
+Data percentiles [0 5 25 50 75 95 100]
+[-1.69 -1.57 -0.89  0.02  0.82  1.62  1.73]
+Data Moments
+Mean: -0.0
+Std Dev: 1.0
+Skewness: -0.0
+Kurtosis: -1.19
+Data Top 5 Modes [item][count]
+[ 0.14 -1.23 -0.09  1.05  1.16] [4406, 4317, 4196, 4160, 4147]
+
+stays_in_weekend_nights
+NA count: 0
+Data percentiles [0 5 25 50 75 95 100]
+[-0.93 -0.93 -0.93  0.07  1.07  1.07 18.1 ]
+Data Moments
+Mean: 0.0
+Std Dev: 1.0
+Skewness: 1.38
+Kurtosis: 7.17
+Data Top 5 Modes [item][count]
+[-0.93  1.07  0.07  3.08  2.08] [51998, 33308, 30626, 1855, 1259]
+
+stays_in_week_nights
+NA count: 0
+Data percentiles [0 5 25 50 75 95 100]
+[-1.31 -1.31 -0.79 -0.26  0.26  1.31 24.89]
+Data Moments
+Mean: -0.0
+Std Dev: 1.0
+Skewness: 2.86
+Kurtosis: 24.28
+Data Top 5 Modes [item][count]
+[-0.26 -0.79  0.26  1.31  0.79] [33684, 30310, 22258, 11077, 9563]
+
+adults
+NA count: 0
+Data percentiles [0 5 25 50 75 95 100]
+[-3.2  -1.48  0.25  0.25  0.25  1.97 91.74]
+Data Moments
+Mean: -0.0
+Std Dev: 1.0
+Skewness: 18.32
+Kurtosis: 1352.06
+Data Top 5 Modes [item][count]
+[ 0.25 -1.48  1.97 -3.2   3.7 ] [89680, 23027, 6202, 403, 62]
+
+children
+NA count: 0
+Data percentiles [0 5 25 50 75 95 100]
+[-0.26 -0.26 -0.26 -0.26 -0.26  2.25 24.83]
+Data Moments
+Mean: -0.0
+Std Dev: 1.0
+Skewness: 4.11
+Kurtosis: 18.67
+Data Top 5 Modes [item][count]
+[-0.26  2.25  4.76  7.27 24.83] [110800, 4861, 3652, 76, 1]
+
+babies
+NA count: 0
+Data percentiles [0 5 25 50 75 95 100]
+[-8.0000e-02 -8.0000e-02 -8.0000e-02 -8.0000e-02 -8.0000e-02 -8.0000e-02
+  1.0255e+02]
+Data Moments
+Mean: 0.0
+Std Dev: 1.0
+Skewness: 24.65
+Kurtosis: 1633.88
+Data Top 5 Modes [item][count]
+[-8.0000e-02  1.0180e+01  2.0440e+01  1.0255e+02  9.2290e+01] [118473, 900, 15, 1, 1]
+
+previous_cancellations
+NA count: 0
+Data percentiles [0 5 25 50 75 95 100]
+[-0.1  -0.1  -0.1  -0.1  -0.1   1.08 30.69]
+Data Moments
+Mean: -0.0
+Std Dev: 1.0
+Skewness: 24.46
+Kurtosis: 674.05
+Data Top 5 Modes [item][count]
+[-0.1   1.08  2.27  3.45 28.32] [112906, 6051, 116, 65, 48]
+
+previous_bookings_not_canceled
+NA count: 0
+Data percentiles [0 5 25 50 75 95 100]
+[-0.09 -0.09 -0.09 -0.09 -0.09 -0.09 47.99]
+Data Moments
+Mean: -0.0
+Std Dev: 1.0
+Skewness: 23.54
+Kurtosis: 767.21
+Data Top 5 Modes [item][count]
+[-0.09  0.58  1.24  1.91  2.58] [115770, 1542, 580, 333, 229]
+
+booking_changes
+NA count: 0
+Data percentiles [0 5 25 50 75 95 100]
+[-0.34 -0.34 -0.34 -0.34 -0.34  1.19 31.85]
+Data Moments
+Mean: -0.0
+Std Dev: 1.0
+Skewness: 6.0
+Kurtosis: 79.39
+Data Top 5 Modes [item][count]
+[-0.34  1.19  2.73  4.26  5.79] [101314, 12701, 3805, 927, 376]
+
+days_in_waiting_list
+NA count: 0
+Data percentiles [0 5 25 50 75 95 100]
+[-0.13 -0.13 -0.13 -0.13 -0.13 -0.13 22.09]
+Data Moments
+Mean: 0.0
+Std Dev: 1.0
+Skewness: 11.94
+Kurtosis: 186.79
+Data Top 5 Modes [item][count]
+[-0.13  2.08  3.16  2.37  1.63] [115692, 227, 164, 141, 127]
+
+adr
+NA count: 0
+Data percentiles [0 5 25 50 75 95 100]
+[ -2.14  -1.26  -0.64  -0.14   0.48   1.81 104.84]
+Data Moments
+Mean: 0.0
+Std Dev: 1.0
+Skewness: 10.53
+Kurtosis: 1013.15
+Data Top 5 Modes [item][count]
+[-0.79 -0.53 -0.23 -0.73 -2.02] [3754, 2715, 2473, 2418, 1959]
+
+required_car_parking_spaces
+NA count: 0
+Data percentiles [0 5 25 50 75 95 100]
+[-0.25 -0.25 -0.25 -0.25 -0.25  3.82 32.36]
+Data Moments
+Mean: -0.0
+Std Dev: 1.0
+Skewness: 4.16
+Kurtosis: 30.0
+Data Top 5 Modes [item][count]
+[-0.25  3.82  7.9  11.98 32.36] [111974, 7383, 28, 3, 2]
+
+total_of_special_requests
+NA count: 0
+Data percentiles [0 5 25 50 75 95 100]
+[-0.72 -0.72 -0.72 -0.72  0.54  1.8   5.59]
+Data Moments
+Mean: 0.0
+Std Dev: 1.0
+Skewness: 1.35
+Kurtosis: 1.49
+Data Top 5 Modes [item][count]
+[-0.72  0.54  1.8   3.06  4.32] [70318, 33226, 12969, 2497, 340]
+
+hotel_City Hotel
+NA count: 0
+Data percentiles [0 5 25 50 75 95 100]
+[0. 0. 0. 1. 1. 1. 1.]
+Data Moments
+Mean: 0.66
+Std Dev: 0.47
+Skewness: -0.7
+Kurtosis: -1.51
+Data Top 5 Modes [item][count]
+[1 0] [79330, 40060]
+
+hotel_Resort Hotel
+NA count: 0
+Data percentiles [0 5 25 50 75 95 100]
+[0. 0. 0. 0. 1. 1. 1.]
+Data Moments
+Mean: 0.34
+Std Dev: 0.47
+Skewness: 0.7
+Kurtosis: -1.51
+Data Top 5 Modes [item][count]
+[0 1] [79330, 40060]
+
+arrival_date_year_2015
+NA count: 0
+Data percentiles [0 5 25 50 75 95 100]
+[0. 0. 0. 0. 0. 1. 1.]
+Data Moments
+Mean: 0.18
+Std Dev: 0.39
+Skewness: 1.63
+Kurtosis: 0.65
+Data Top 5 Modes [item][count]
+[0 1] [97394, 21996]
+
+arrival_date_year_2016
+NA count: 0
+Data percentiles [0 5 25 50 75 95 100]
+[0. 0. 0. 0. 1. 1. 1.]
+Data Moments
+Mean: 0.47
+Std Dev: 0.5
+Skewness: 0.1
+Kurtosis: -1.99
+Data Top 5 Modes [item][count]
+[0 1] [62683, 56707]
+
+arrival_date_year_2017
+NA count: 0
+Data percentiles [0 5 25 50 75 95 100]
+[0. 0. 0. 0. 1. 1. 1.]
+Data Moments
+Mean: 0.34
+Std Dev: 0.47
+Skewness: 0.67
+Kurtosis: -1.55
+Data Top 5 Modes [item][count]
+[0 1] [78703, 40687]
+
+arrival_date_month_April
+NA count: 0
+Data percentiles [0 5 25 50 75 95 100]
+[0. 0. 0. 0. 0. 1. 1.]
+Data Moments
+Mean: 0.09
+Std Dev: 0.29
+Skewness: 2.81
+Kurtosis: 5.87
+Data Top 5 Modes [item][count]
+[0 1] [108301, 11089]
+
+arrival_date_month_August
+NA count: 0
+Data percentiles [0 5 25 50 75 95 100]
+[0. 0. 0. 0. 0. 1. 1.]
+Data Moments
+Mean: 0.12
+Std Dev: 0.32
+Skewness: 2.39
+Kurtosis: 3.73
+Data Top 5 Modes [item][count]
+[0 1] [105513, 13877]
+
+arrival_date_month_December
+NA count: 0
+Data percentiles [0 5 25 50 75 95 100]
+[0. 0. 0. 0. 0. 1. 1.]
+Data Moments
+Mean: 0.06
+Std Dev: 0.23
+Skewness: 3.83
+Kurtosis: 12.67
+Data Top 5 Modes [item][count]
+[0 1] [112610, 6780]
+
+arrival_date_month_February
+NA count: 0
+Data percentiles [0 5 25 50 75 95 100]
+[0. 0. 0. 0. 0. 1. 1.]
+Data Moments
+Mean: 0.07
+Std Dev: 0.25
+Skewness: 3.45
+Kurtosis: 9.87
+Data Top 5 Modes [item][count]
+[0 1] [111322, 8068]
+
+arrival_date_month_January
+NA count: 0
+Data percentiles [0 5 25 50 75 95 100]
+[0. 0. 0. 0. 0. 0. 1.]
+Data Moments
+Mean: 0.05
+Std Dev: 0.22
+Skewness: 4.15
+Kurtosis: 15.19
+Data Top 5 Modes [item][count]
+[0 1] [113461, 5929]
+
+arrival_date_month_July
+NA count: 0
+Data percentiles [0 5 25 50 75 95 100]
+[0. 0. 0. 0. 0. 1. 1.]
+Data Moments
+Mean: 0.11
+Std Dev: 0.31
+Skewness: 2.56
+Kurtosis: 4.55
+Data Top 5 Modes [item][count]
+[0 1] [106729, 12661]
+
+arrival_date_month_June
+NA count: 0
+Data percentiles [0 5 25 50 75 95 100]
+[0. 0. 0. 0. 0. 1. 1.]
+Data Moments
+Mean: 0.09
+Std Dev: 0.29
+Skewness: 2.83
+Kurtosis: 6.02
+Data Top 5 Modes [item][count]
+[0 1] [108451, 10939]
+
+arrival_date_month_March
+NA count: 0
+Data percentiles [0 5 25 50 75 95 100]
+[0. 0. 0. 0. 0. 1. 1.]
+Data Moments
+Mean: 0.08
+Std Dev: 0.27
+Skewness: 3.05
+Kurtosis: 7.28
+Data Top 5 Modes [item][count]
+[0 1] [109596, 9794]
+
+arrival_date_month_May
+NA count: 0
+Data percentiles [0 5 25 50 75 95 100]
+[0. 0. 0. 0. 0. 1. 1.]
+Data Moments
+Mean: 0.1
+Std Dev: 0.3
+Skewness: 2.69
+Kurtosis: 5.24
+Data Top 5 Modes [item][count]
+[0 1] [107599, 11791]
+
+arrival_date_month_November
+NA count: 0
+Data percentiles [0 5 25 50 75 95 100]
+[0. 0. 0. 0. 0. 1. 1.]
+Data Moments
+Mean: 0.06
+Std Dev: 0.23
+Skewness: 3.83
+Kurtosis: 12.63
+Data Top 5 Modes [item][count]
+[0 1] [112596, 6794]
+
+arrival_date_month_October
+NA count: 0
+Data percentiles [0 5 25 50 75 95 100]
+[0. 0. 0. 0. 0. 1. 1.]
+Data Moments
+Mean: 0.09
+Std Dev: 0.29
+Skewness: 2.79
+Kurtosis: 5.8
+Data Top 5 Modes [item][count]
+[0 1] [108230, 11160]
+
+arrival_date_month_September
+NA count: 0
+Data percentiles [0 5 25 50 75 95 100]
+[0. 0. 0. 0. 0. 1. 1.]
+Data Moments
+Mean: 0.09
+Std Dev: 0.28
+Skewness: 2.91
+Kurtosis: 6.46
+Data Top 5 Modes [item][count]
+[0 1] [108882, 10508]
+
+meal_BB
+NA count: 0
+Data percentiles [0 5 25 50 75 95 100]
+[0. 0. 1. 1. 1. 1. 1.]
+Data Moments
+Mean: 0.77
+Std Dev: 0.42
+Skewness: -1.3
+Kurtosis: -0.3
+Data Top 5 Modes [item][count]
+[1 0] [92310, 27080]
+
+meal_FB
+NA count: 0
+Data percentiles [0 5 25 50 75 95 100]
+[0. 0. 0. 0. 0. 0. 1.]
+Data Moments
+Mean: 0.01
+Std Dev: 0.08
+Skewness: 12.11
+Kurtosis: 144.62
+Data Top 5 Modes [item][count]
+[0 1] [118592, 798]
+
+meal_HB
+NA count: 0
+Data percentiles [0 5 25 50 75 95 100]
+[0. 0. 0. 0. 0. 1. 1.]
+Data Moments
+Mean: 0.12
+Std Dev: 0.33
+Skewness: 2.32
+Kurtosis: 3.39
+Data Top 5 Modes [item][count]
+[0 1] [104927, 14463]
+
+meal_SC
+NA count: 0
+Data percentiles [0 5 25 50 75 95 100]
+[0. 0. 0. 0. 0. 1. 1.]
+Data Moments
+Mean: 0.09
+Std Dev: 0.29
+Skewness: 2.88
+Kurtosis: 6.31
+Data Top 5 Modes [item][count]
+[0 1] [108740, 10650]
+
+meal_Undefined
+NA count: 0
+Data percentiles [0 5 25 50 75 95 100]
+[0. 0. 0. 0. 0. 0. 1.]
+Data Moments
+Mean: 0.01
+Std Dev: 0.1
+Skewness: 9.96
+Kurtosis: 97.14
+Data Top 5 Modes [item][count]
+[0 1] [118221, 1169]
+
+market_segment_Aviation
+NA count: 0
+Data percentiles [0 5 25 50 75 95 100]
+[0. 0. 0. 0. 0. 0. 1.]
+Data Moments
+Mean: 0.0
+Std Dev: 0.04
+Skewness: 22.38
+Kurtosis: 498.76
+Data Top 5 Modes [item][count]
+[0 1] [119153, 237]
+
+market_segment_Complementary
+NA count: 0
+Data percentiles [0 5 25 50 75 95 100]
+[0. 0. 0. 0. 0. 0. 1.]
+Data Moments
+Mean: 0.01
+Std Dev: 0.08
+Skewness: 12.56
+Kurtosis: 155.69
+Data Top 5 Modes [item][count]
+[0 1] [118647, 743]
+
+market_segment_Corporate
+NA count: 0
+Data percentiles [0 5 25 50 75 95 100]
+[0. 0. 0. 0. 0. 0. 1.]
+Data Moments
+Mean: 0.04
+Std Dev: 0.21
+Skewness: 4.43
+Kurtosis: 17.59
+Data Top 5 Modes [item][count]
+[0 1] [114095, 5295]
+
+market_segment_Direct
+NA count: 0
+Data percentiles [0 5 25 50 75 95 100]
+[0. 0. 0. 0. 0. 1. 1.]
+Data Moments
+Mean: 0.11
+Std Dev: 0.31
+Skewness: 2.57
+Kurtosis: 4.59
+Data Top 5 Modes [item][count]
+[0 1] [106784, 12606]
+
+market_segment_Groups
+NA count: 0
+Data percentiles [0 5 25 50 75 95 100]
+[0. 0. 0. 0. 0. 1. 1.]
+Data Moments
+Mean: 0.17
+Std Dev: 0.37
+Skewness: 1.8
+Kurtosis: 1.23
+Data Top 5 Modes [item][count]
+[0 1] [99579, 19811]
+
+market_segment_Offline TA/TO
+NA count: 0
+Data percentiles [0 5 25 50 75 95 100]
+[0. 0. 0. 0. 0. 1. 1.]
+Data Moments
+Mean: 0.2
+Std Dev: 0.4
+Skewness: 1.48
+Kurtosis: 0.18
+Data Top 5 Modes [item][count]
+[0 1] [95171, 24219]
+
+market_segment_Online TA
+NA count: 0
+Data percentiles [0 5 25 50 75 95 100]
+[0. 0. 0. 0. 1. 1. 1.]
+Data Moments
+Mean: 0.47
+Std Dev: 0.5
+Skewness: 0.11
+Kurtosis: -1.99
+Data Top 5 Modes [item][count]
+[0 1] [62913, 56477]
+
+market_segment_Undefined
+NA count: 0
+Data percentiles [0 5 25 50 75 95 100]
+[0. 0. 0. 0. 0. 0. 1.]
+Data Moments
+Mean: 0.0
+Std Dev: 0.0
+Skewness: 244.32
+Kurtosis: 59690.0
+Data Top 5 Modes [item][count]
+[0 1] [119388, 2]
+
+distribution_channel_Corporate
+NA count: 0
+Data percentiles [0 5 25 50 75 95 100]
+[0. 0. 0. 0. 0. 1. 1.]
+Data Moments
+Mean: 0.06
+Std Dev: 0.23
+Skewness: 3.87
+Kurtosis: 12.94
+Data Top 5 Modes [item][count]
+[0 1] [112713, 6677]
+
+distribution_channel_Direct
+NA count: 0
+Data percentiles [0 5 25 50 75 95 100]
+[0. 0. 0. 0. 0. 1. 1.]
+Data Moments
+Mean: 0.12
+Std Dev: 0.33
+Skewness: 2.3
+Kurtosis: 3.29
+Data Top 5 Modes [item][count]
+[0 1] [104745, 14645]
+
+distribution_channel_GDS
+NA count: 0
+Data percentiles [0 5 25 50 75 95 100]
+[0. 0. 0. 0. 0. 0. 1.]
+Data Moments
+Mean: 0.0
+Std Dev: 0.04
+Skewness: 24.81
+Kurtosis: 613.6
+Data Top 5 Modes [item][count]
+[0 1] [119197, 193]
+
+distribution_channel_TA/TO
+NA count: 0
+Data percentiles [0 5 25 50 75 95 100]
+[0. 0. 1. 1. 1. 1. 1.]
+Data Moments
+Mean: 0.82
+Std Dev: 0.38
+Skewness: -1.66
+Kurtosis: 0.77
+Data Top 5 Modes [item][count]
+[1 0] [97870, 21520]
+
+distribution_channel_Undefined
+NA count: 0
+Data percentiles [0 5 25 50 75 95 100]
+[0. 0. 0. 0. 0. 0. 1.]
+Data Moments
+Mean: 0.0
+Std Dev: 0.01
+Skewness: 154.52
+Kurtosis: 23873.0
+Data Top 5 Modes [item][count]
+[0 1] [119385, 5]
+
+is_repeated_guest_no
+NA count: 0
+Data percentiles [0 5 25 50 75 95 100]
+[0. 1. 1. 1. 1. 1. 1.]
+Data Moments
+Mean: 0.97
+Std Dev: 0.18
+Skewness: -5.33
+Kurtosis: 26.37
+Data Top 5 Modes [item][count]
+[1 0] [115580, 3810]
+
+is_repeated_guest_yes
+NA count: 0
+Data percentiles [0 5 25 50 75 95 100]
+[0. 0. 0. 0. 0. 0. 1.]
+Data Moments
+Mean: 0.03
+Std Dev: 0.18
+Skewness: 5.33
+Kurtosis: 26.37
+Data Top 5 Modes [item][count]
+[0 1] [115580, 3810]
+
+reserved_room_type_A
+NA count: 0
+Data percentiles [0 5 25 50 75 95 100]
+[0. 0. 0. 1. 1. 1. 1.]
+Data Moments
+Mean: 0.72
+Std Dev: 0.45
+Skewness: -0.98
+Kurtosis: -1.04
+Data Top 5 Modes [item][count]
+[1 0] [85994, 33396]
+
+reserved_room_type_B
+NA count: 0
+Data percentiles [0 5 25 50 75 95 100]
+[0. 0. 0. 0. 0. 0. 1.]
+Data Moments
+Mean: 0.01
+Std Dev: 0.1
+Skewness: 10.19
+Kurtosis: 101.8
+Data Top 5 Modes [item][count]
+[0 1] [118272, 1118]
+
+reserved_room_type_C
+NA count: 0
+Data percentiles [0 5 25 50 75 95 100]
+[0. 0. 0. 0. 0. 0. 1.]
+Data Moments
+Mean: 0.01
+Std Dev: 0.09
+Skewness: 11.19
+Kurtosis: 123.11
+Data Top 5 Modes [item][count]
+[0 1] [118458, 932]
+
+reserved_room_type_D
+NA count: 0
+Data percentiles [0 5 25 50 75 95 100]
+[0. 0. 0. 0. 0. 1. 1.]
+Data Moments
+Mean: 0.16
+Std Dev: 0.37
+Skewness: 1.85
+Kurtosis: 1.41
+Data Top 5 Modes [item][count]
+[0 1] [100189, 19201]
+
+reserved_room_type_E
+NA count: 0
+Data percentiles [0 5 25 50 75 95 100]
+[0. 0. 0. 0. 0. 1. 1.]
+Data Moments
+Mean: 0.05
+Std Dev: 0.23
+Skewness: 3.92
+Kurtosis: 13.33
+Data Top 5 Modes [item][count]
+[0 1] [112855, 6535]
+
+reserved_room_type_F
+NA count: 0
+Data percentiles [0 5 25 50 75 95 100]
+[0. 0. 0. 0. 0. 0. 1.]
+Data Moments
+Mean: 0.02
+Std Dev: 0.15
+Skewness: 6.18
+Kurtosis: 36.24
+Data Top 5 Modes [item][count]
+[0 1] [116493, 2897]
+
+reserved_room_type_G
+NA count: 0
+Data percentiles [0 5 25 50 75 95 100]
+[0. 0. 0. 0. 0. 0. 1.]
+Data Moments
+Mean: 0.02
+Std Dev: 0.13
+Skewness: 7.35
+Kurtosis: 52.03
+Data Top 5 Modes [item][count]
+[0 1] [117296, 2094]
+
+reserved_room_type_H
+NA count: 0
+Data percentiles [0 5 25 50 75 95 100]
+[0. 0. 0. 0. 0. 0. 1.]
+Data Moments
+Mean: 0.01
+Std Dev: 0.07
+Skewness: 13.99
+Kurtosis: 193.66
+Data Top 5 Modes [item][count]
+[0 1] [118789, 601]
+
+reserved_room_type_L
+NA count: 0
+Data percentiles [0 5 25 50 75 95 100]
+[0. 0. 0. 0. 0. 0. 1.]
+Data Moments
+Mean: 0.0
+Std Dev: 0.01
+Skewness: 141.05
+Kurtosis: 19893.33
+Data Top 5 Modes [item][count]
+[0 1] [119384, 6]
+
+reserved_room_type_P
+NA count: 0
+Data percentiles [0 5 25 50 75 95 100]
+[0. 0. 0. 0. 0. 0. 1.]
+Data Moments
+Mean: 0.0
+Std Dev: 0.01
+Skewness: 99.73
+Kurtosis: 9944.17
+Data Top 5 Modes [item][count]
+[0 1] [119378, 12]
+
+assigned_room_type_A
+NA count: 0
+Data percentiles [0 5 25 50 75 95 100]
+[0. 0. 0. 1. 1. 1. 1.]
+Data Moments
+Mean: 0.62
+Std Dev: 0.49
+Skewness: -0.5
+Kurtosis: -1.75
+Data Top 5 Modes [item][count]
+[1 0] [74053, 45337]
+
+assigned_room_type_B
+NA count: 0
+Data percentiles [0 5 25 50 75 95 100]
+[0. 0. 0. 0. 0. 0. 1.]
+Data Moments
+Mean: 0.02
+Std Dev: 0.13
+Skewness: 7.23
+Kurtosis: 50.21
+Data Top 5 Modes [item][count]
+[0 1] [117227, 2163]
+
+assigned_room_type_C
+NA count: 0
+Data percentiles [0 5 25 50 75 95 100]
+[0. 0. 0. 0. 0. 0. 1.]
+Data Moments
+Mean: 0.02
+Std Dev: 0.14
+Skewness: 6.88
+Kurtosis: 45.29
+Data Top 5 Modes [item][count]
+[0 1] [117015, 2375]
+
+assigned_room_type_D
+NA count: 0
+Data percentiles [0 5 25 50 75 95 100]
+[0. 0. 0. 0. 0. 1. 1.]
+Data Moments
+Mean: 0.21
+Std Dev: 0.41
+Skewness: 1.41
+Kurtosis: -0.02
+Data Top 5 Modes [item][count]
+[0 1] [94068, 25322]
+
+assigned_room_type_E
+NA count: 0
+Data percentiles [0 5 25 50 75 95 100]
+[0. 0. 0. 0. 0. 1. 1.]
+Data Moments
+Mean: 0.07
+Std Dev: 0.25
+Skewness: 3.52
+Kurtosis: 10.36
+Data Top 5 Modes [item][count]
+[0 1] [111584, 7806]
+
+assigned_room_type_F
+NA count: 0
+Data percentiles [0 5 25 50 75 95 100]
+[0. 0. 0. 0. 0. 0. 1.]
+Data Moments
+Mean: 0.03
+Std Dev: 0.17
+Skewness: 5.37
+Kurtosis: 26.86
+Data Top 5 Modes [item][count]
+[0 1] [115639, 3751]
+
+assigned_room_type_G
+NA count: 0
+Data percentiles [0 5 25 50 75 95 100]
+[0. 0. 0. 0. 0. 0. 1.]
+Data Moments
+Mean: 0.02
+Std Dev: 0.14
+Skewness: 6.62
+Kurtosis: 41.79
+Data Top 5 Modes [item][count]
+[0 1] [116837, 2553]
+
+assigned_room_type_H
+NA count: 0
+Data percentiles [0 5 25 50 75 95 100]
+[0. 0. 0. 0. 0. 0. 1.]
+Data Moments
+Mean: 0.01
+Std Dev: 0.08
+Skewness: 12.83
+Kurtosis: 162.69
+Data Top 5 Modes [item][count]
+[0 1] [118678, 712]
+
+assigned_room_type_I
+NA count: 0
+Data percentiles [0 5 25 50 75 95 100]
+[0. 0. 0. 0. 0. 0. 1.]
+Data Moments
+Mean: 0.0
+Std Dev: 0.06
+Skewness: 18.05
+Kurtosis: 323.9
+Data Top 5 Modes [item][count]
+[0 1] [119027, 363]
+
+assigned_room_type_K
+NA count: 0
+Data percentiles [0 5 25 50 75 95 100]
+[0. 0. 0. 0. 0. 0. 1.]
+Data Moments
+Mean: 0.0
+Std Dev: 0.05
+Skewness: 20.61
+Kurtosis: 422.92
+Data Top 5 Modes [item][count]
+[0 1] [119111, 279]
+
+assigned_room_type_L
+NA count: 0
+Data percentiles [0 5 25 50 75 95 100]
+[0. 0. 0. 0. 0. 0. 1.]
+Data Moments
+Mean: 0.0
+Std Dev: 0.0
+Skewness: 345.52
+Kurtosis: 119385.0
+Data Top 5 Modes [item][count]
+[0 1] [119389, 1]
+
+assigned_room_type_P
+NA count: 0
+Data percentiles [0 5 25 50 75 95 100]
+[0. 0. 0. 0. 0. 0. 1.]
+Data Moments
+Mean: 0.0
+Std Dev: 0.01
+Skewness: 99.73
+Kurtosis: 9944.17
+Data Top 5 Modes [item][count]
+[0 1] [119378, 12]
+
+deposit_type_No Deposit
+NA count: 0
+Data percentiles [0 5 25 50 75 95 100]
+[0. 0. 1. 1. 1. 1. 1.]
+Data Moments
+Mean: 0.88
+Std Dev: 0.33
+Skewness: -2.29
+Kurtosis: 3.24
+Data Top 5 Modes [item][count]
+[1 0] [104641, 14749]
+
+deposit_type_Non Refund
+NA count: 0
+Data percentiles [0 5 25 50 75 95 100]
+[0. 0. 0. 0. 0. 1. 1.]
+Data Moments
+Mean: 0.12
+Std Dev: 0.33
+Skewness: 2.31
+Kurtosis: 3.32
+Data Top 5 Modes [item][count]
+[0 1] [104803, 14587]
+
+deposit_type_Refundable
+NA count: 0
+Data percentiles [0 5 25 50 75 95 100]
+[0. 0. 0. 0. 0. 0. 1.]
+Data Moments
+Mean: 0.0
+Std Dev: 0.04
+Skewness: 27.09
+Kurtosis: 731.98
+Data Top 5 Modes [item][count]
+[0 1] [119228, 162]
+
+customer_type_Contract
+NA count: 0
+Data percentiles [0 5 25 50 75 95 100]
+[0. 0. 0. 0. 0. 0. 1.]
+Data Moments
+Mean: 0.03
+Std Dev: 0.18
+Skewness: 5.13
+Kurtosis: 24.33
+Data Top 5 Modes [item][count]
+[0 1] [115314, 4076]
+
+customer_type_Group
+NA count: 0
+Data percentiles [0 5 25 50 75 95 100]
+[0. 0. 0. 0. 0. 0. 1.]
+Data Moments
+Mean: 0.0
+Std Dev: 0.07
+Skewness: 14.28
+Kurtosis: 201.92
+Data Top 5 Modes [item][count]
+[0 1] [118813, 577]
+
+customer_type_Transient
+NA count: 0
+Data percentiles [0 5 25 50 75 95 100]
+[0. 0. 1. 1. 1. 1. 1.]
+Data Moments
+Mean: 0.75
+Std Dev: 0.43
+Skewness: -1.16
+Kurtosis: -0.66
+Data Top 5 Modes [item][count]
+[1 0] [89613, 29777]
+
+customer_type_Transient-Party
+NA count: 0
+Data percentiles [0 5 25 50 75 95 100]
+[0. 0. 0. 0. 0. 1. 1.]
+Data Moments
+Mean: 0.21
+Std Dev: 0.41
+Skewness: 1.42
+Kurtosis: 0.02
+Data Top 5 Modes [item][count]
+[0 1] [94266, 25124]
+
+days_in_waiting_list_mode_no
+NA count: 0
+Data percentiles [0 5 25 50 75 95 100]
+[0. 0. 0. 0. 0. 0. 1.]
+Data Moments
+Mean: 0.03
+Std Dev: 0.17
+Skewness: 5.41
+Kurtosis: 27.32
+Data Top 5 Modes [item][count]
+[0 1] [115692, 3698]
+
+days_in_waiting_list_mode_yes
+NA count: 0
+Data percentiles [0 5 25 50 75 95 100]
+[0. 1. 1. 1. 1. 1. 1.]
+Data Moments
+Mean: 0.97
+Std Dev: 0.17
+Skewness: -5.41
+Kurtosis: 27.32
+Data Top 5 Modes [item][count]
+[1 0] [115692, 3698]
+
+children_null_no
+NA count: 0
+Data percentiles [0 5 25 50 75 95 100]
+[0. 1. 1. 1. 1. 1. 1.]
+Data Moments
+Mean: 1.0
+Std Dev: 0.01
+Skewness: -172.76
+Kurtosis: 29842.5
+Data Top 5 Modes [item][count]
+[1 0] [119386, 4]
+
+children_null_yes
+NA count: 0
+Data percentiles [0 5 25 50 75 95 100]
+[0. 0. 0. 0. 0. 0. 1.]
+Data Moments
+Mean: 0.0
+Std Dev: 0.01
+Skewness: 172.76
+Kurtosis: 29842.5
+Data Top 5 Modes [item][count]
+[0 1] [119386, 4]
+
